@@ -1,0 +1,30 @@
+html {
+			background: powderblue
+		}
+		
+		body {
+			font-size: 18px;
+			margin: 0 auto;
+			width: 600px;
+			text-align: left;
+			font-family: 'Calibri';
+						
+		}
+		
+		p.navigation {
+			text-align: center;
+			}
+			
+		p.gallery img {
+			margin-bottom: 20px;
+		}
+		
+		h1, h2 {
+			text-align: center;
+			color: darkcyan;
+			
+		}
+		
+		img	{
+			width: 100%;
+		}
